@@ -1,0 +1,1 @@
+print("O Bicalho é o melhor professor do mundo!")
